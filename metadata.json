@@ -1,0 +1,6 @@
+{
+  "name": "HanDam 韓式高級餐廳官網",
+  "description": "現代化高質感的韓式高級餐廳官方網站，包含品牌介紹、菜單展示、限制名額的線上預約系統、會員系統及 Firestore 寫入測試網頁。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
